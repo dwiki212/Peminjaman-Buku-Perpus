@@ -39,7 +39,7 @@
               <div class="inner">
                 <h3>{{$count_selesai_dipinjam}}</h3>
 
-                <p>Selesai Dipinjam</p>
+                <p>Sudah Selesai Dipinjam</p>
               </div>
               <div class="icon">
                  <i class="far fa-check-circle"></i>
